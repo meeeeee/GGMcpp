@@ -1,6 +1,5 @@
 #include <bitset>
 #include <array>
-#include <iostream>
 #include <vector>
 
 constexpr int rounds = 10;
