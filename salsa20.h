@@ -118,5 +118,3 @@ std::vector<uint8_t> salsa20prng(std::vector<uint8_t> input, bool bit){
     output.resize(input.size());
     return output;
 }
-
-int main(){}
